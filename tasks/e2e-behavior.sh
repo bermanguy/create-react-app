@@ -7,7 +7,7 @@
 # ******************************************************************************
 # This is an end-to-end kitchensink test intended to run on CI.
 # You can also run it locally but it's slow.
-# ******************************************************************************
+# *******************************************************************************
 
 # Start in tasks/ even if run from root directory
 cd "$(dirname "$0")"
